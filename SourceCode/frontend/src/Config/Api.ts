@@ -9,7 +9,7 @@ const API_URL =
     ? "http://localhost:5000"
     : window.location.hostname === "192.168.1.22"
       ? "http://192.168.1.22:5000"
-      : "https://e-commerce-project-1-sb2k.onrender.com";
+      : "https://e-commerce-project-f0bu.onrender.com";
 
 export { API_URL };
 
